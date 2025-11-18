@@ -43,7 +43,7 @@ We can analyse some IoT use cases, such as waste management solutions https://th
 
 ## Perception layer. Sensors selection
 
-When selecting sensors for the perception layer, it's essential to consider what data we'll need for our project in order to choose the appropriate sensor. It's also essential to identify the device's deployment location, as this will significantly influence the criteria regarding short-, medium-, and long-range standards, communication protocols, and costs. This will allow us to select the devices that best suit the project, both technically and economically.
+When selecting sensors for the perception layer, it's essential to consider what data we'll need for our project in order to choose the appropriate sensor. It's also essential to identify the device's deployment location, as this will significantly influence the criteria regarding short-, medium-, and long-range standards, communication protocols, batery, and costs. This will allow us to select the devices that best suit the project, both technically and economically.
 
 ![S3 thingsboard](./images/IOT.DEVICESCOST.png)
 
