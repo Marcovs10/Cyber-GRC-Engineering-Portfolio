@@ -10,5 +10,9 @@ Learning how a simple misconfiguration can expose sensitive data is essential fo
 
 ![S3 Bucket](./images/AWS-bucket-created.png)
 
+### Prepare the Static Web Application
 
+We created a file using Visual Studio Code containing a student registration form, a view student table, delete student option, and jQuery functions to communicate with a backend EC2 API
+
+![S3 Bucket](./images/AWS.FILE.png)
 
