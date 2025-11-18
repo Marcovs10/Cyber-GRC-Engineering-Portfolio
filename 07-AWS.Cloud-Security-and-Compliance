@@ -1,7 +1,7 @@
 # S3 Bucket 
 
-In this activity, I configured an Amazon S3 bucket to host a static web application and implement secure access controls, following best practices for cloud governance, data protection, and compliance. The exercise included creating the bucket, configuring permissions, using IAM policies, and enabling static hosting to deploy an application that interacts with an EC2 backend.
+In this activity, I configured an Amazon S3 bucket to store a web service that allows users to add new students, following best practices for cloud governance and compliance. The exercise included creating the bucket, configuring permissions, using IAM policies, and enabling static hosting to deploy an application that interacts with an EC2 backend.  
 
+Bucket creation in AWS: 
 
-
-![]
+![S3Bucket](./images/https://github.com/Marcovs10/Cyber-GRC-Engineering-Portfolio/blob/main/images/AWS-bucket-created.png)
