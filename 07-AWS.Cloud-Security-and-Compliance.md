@@ -1,3 +1,5 @@
+# AWS | Practice
+
 ## S3 Bucket – Cloud Security and Compliance
 
 In this activity, I configured an Amazon S3 bucket to host a static web application and applied proper access
