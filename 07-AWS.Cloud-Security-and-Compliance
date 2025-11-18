@@ -1,7 +1,10 @@
-# S3 Bucket 
+## S3 Bucket – Cloud Security and Compliance
 
-In this activity, I configured an Amazon S3 bucket to store a web service that allows users to add new students, following best practices for cloud governance and compliance. The exercise included creating the bucket, configuring permissions, using IAM policies, and enabling static hosting to deploy an application that interacts with an EC2 backend.
+In this activity, I configured an Amazon S3 bucket to host a static web application and apply proper access
+control policies. This exercise demonstrates cloud governance, IAM permissions, and compliance validation
+in AWS environments.
 
-Bucket creation in AWS: 
+### Bucket Creation
 
-![S3Bucket](./images/images/AWS-bucket-created.png)
+![S3 Bucket](./images/AWS-bucket-created.png)
+
