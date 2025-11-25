@@ -63,7 +63,7 @@ Set up a managed relational database on AWS using Amazon RDS (MariaDB, free tier
 
 ![S3 Bucket](./images/RBS-AWS.png)
 
-### News & Real Breaches Related to This Activity
+### News and Real Breaches Related to This Activity
 
 When deploying a Relational Database Service (RDS) on Amazon connected to an EC2 instance in a private VPC, it is crucial to consider configurations such as disabling public access, restricting connectivity, and enabling enhanced monitoring and logging. These controls are fundamental for any secure cloud database.
 
